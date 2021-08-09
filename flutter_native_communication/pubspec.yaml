@@ -25,7 +25,7 @@ dependencies:
     sdk: flutter
   json_annotation: ^4.1.0
   flutter_native_com_plugin:
-    path: D:\Development\Projects\MyProjects\flutter_native_com_plugin #TODO change this local dependency when published
+    path: D:\Development\Projects\MyProjects\flutter_native_two_way_communication\flutter_native_com_plugin #TODO change this local dependency when published
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
